@@ -3,5 +3,6 @@
     <color name="purple200">#BB86FC</color>
     <color name="purple500">#6200EE</color>
     <color name="purple700">#3700B3</color>
-    <color name="teal200">#03DAC5</color>
+    <color name="teal200">#F4511E</color>
+    <color name="badge_color">#F4511E</color>
 </resources>
